@@ -4,8 +4,6 @@
 # Red Hat OpenShift Data Foundation workshop
 ## remote version 04 2023
 
-## https://www.menti.com/3xgrs95pk3
-
 you may find the content here: https://github.com/RHEPDS/OCPStorage
 
 9:30	Welcome
