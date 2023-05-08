@@ -6,36 +6,28 @@
 
 you may find the content here: https://github.com/RHEPDS/OCPStorage
 
-9:30	Welcome
+9:00	Welcome
 
-9:45	OpenShift Container Storage (Data Foundation) Overview
+9:10	OpenShift Container Storage (Data Foundation) Overview
 
-9:35	OpenShift DataFoundation Business View
+9:30	OpenShift DataFoundation Business View
 
-10:25	CEPH Introduction
+10:00	CEPH Introduction
 
-10:40	CloudObjectGateway (NOBAA) Introduction 
+10:20	CloudObjectGateway (NOBAA) Introduction 
 
-10:42	BREAK
+10:40	BREAK
 
-11:00	Install ODF Live on AWS Cluster
+10:50	Install ODF Live on AWS Cluster
 
-11:30	ODF Nano on CRC
+11:10	ODF Nano on CRC https://github.com/alfbach/odf-nano
 
-11:37	ODF Running On AWS and NANO Running on Home Lab
+11:30	ODF Technical - BackUp & DR
 
-https://github.com/alfbach/odf-nano
+12:00	What´ s Comming - RoadMap
 
-12:00	LUNCH Break
+12:30	Intro into LAB / HomeWork
 
-13:30	ODF Technical - BackUp & DR
-
-14:30	BREAK
-
-14:45	What´ s Comming - RoadMap
-
-15:15	Intro into LAB / HomeWork
-
-15:30	END
+13:00	END
 
 HomeWork to get the Acreditation: https://connect.redhat.com/en/training/course-catalog?m=c&id=44843599
