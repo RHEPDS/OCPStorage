@@ -1,7 +1,7 @@
 <img src="https://github.com/RHEPDS/OCPStorage/blob/main/RH_Brand_MCS_APP_SERVICES.svg" width="350" height="350">
 
 # Red Hat OpenShift Data Foundation workshop
-## remote version 0´8 2023
+## remote version 08 2023
 
 9:00	Welcome
 
