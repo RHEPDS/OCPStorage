@@ -17,14 +17,14 @@
 
 10:50	Install ODF Live on AWS Cluster
 
-11:10	ODF Nano on CRC https://github.com/alfbach/odf-nano
+11:00	BFREAK
 
-11:30	ODF Technical - BackUp & DR
+12:00 ODF Nano on CRC https://github.com/alfbach/odf-nano
 
-12:00	What´ s Comming - RoadMap
+12:30	ODF Technical - BackUp & DR
 
-12:30	Intro into LAB / HomeWork
+13:00 Intro into LAB / HomeWork
 
-13:00	END
+13:15	END
 
 HomeWork to get the Acreditation: https://connect.redhat.com/en/training/course-catalog?m=c&id=44843599
