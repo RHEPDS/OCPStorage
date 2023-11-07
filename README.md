@@ -13,9 +13,7 @@
 
 10:20	CloudObjectGateway (NOBAA) Introduction 
 
-10:40	BREAK
-
-10:50	Install ODF Live on AWS Cluster
+10:40	Install ODF Live on AWS Cluster
 
 11:00	BFREAK
 
