@@ -5,15 +5,17 @@
 
 9:30	OpenShift Container Storage (Data Foundation) Overview
 
-10:30	OpenShift DataFoundation Business View
+10:30	OpenShift Data Foundation Business View
 
-11:00	CEPH Introduction
+10:55 BREAK
 
-11:20	CloudObjectGateway (NOBAA) Introduction 
+11:05	CEPH Introduction
+
+11:20	Cloud Object Gateway (NOBAA) Introduction 
 
 11:40	Install ODF Live on AWS Cluster
 
-12:00	BFREAK
+12:00	BREAK
 
 13:00 ODF Nano on CRC https://github.com/alfbach/odf-nano
 
