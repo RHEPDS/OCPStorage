@@ -25,4 +25,7 @@
 
 14:15	END
 
-Homework to get the Accreditation: https://connect.redhat.com/en/training/course-catalog?m=c&id=44576765&utm_source=LOC
+Homework to get the Accreditation: (DO370 incl LAB) 
+
+https://connect.redhat.com/en/training/course-catalog?m=c&id=44898270&utm_source=LOC
+
