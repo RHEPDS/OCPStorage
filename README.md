@@ -1,9 +1,9 @@
 <img src="https://github.com/RHEPDS/OCPStorage/blob/main/RH_Brand_MCS_APP_SERVICES.svg" width="350" height="350">
 
 # Red Hat OpenShift Data Foundation workshop
-## remote version 02 2024
+## remote version 05 2024
 
-9:30	OpenShift Container Storage (Data Foundation) Overview
+9:30	OpenShift Container Data Foundation Overview
 
 10:30	OpenShift Data Foundation Business View
 
