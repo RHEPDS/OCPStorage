@@ -1,41 +1,31 @@
 <img src="https://github.com/RHEPDS/OCPStorage/blob/main/RH_Brand_MCS_APP_SERVICES.svg" width="350" height="350">
 
-
 # Red Hat OpenShift Data Foundation workshop
-## remote version 04 2023
+## remote version 09 2024
 
-you may find the content here: https://github.com/RHEPDS/OCPStorage
+9:30	OpenShift Container Data Foundation Overview
 
-9:30	Welcome
+10:30	OpenShift Data Foundation Business View
 
-9:45	OpenShift Container Storage (Data Foundation) Overview
+10:55 BREAK
 
-9:35	OpenShift DataFoundation Business View
+11:05	CEPH Introduction
 
-10:25	CEPH Introduction
+11:20	Cloud Object Gateway (NOBAA) Introduction 
 
-10:40	CloudObjectGateway (NOBAA) Introduction 
+11:40	Install ODF Live on AWS Cluster
 
-10:42	BREAK
+12:00	BREAK
 
-11:00	Install ODF Live on AWS Cluster
+13:00 ODF Nano on CRC https://github.com/alfbach/odf-nano
 
-11:30	ODF Nano on CRC
+13:30	ODF Technical - Backup & DR
 
-11:37	ODF Running On AWS and NANO Running on Home Lab
+14:00 Intro into LAB / Homework
 
-https://github.com/alfbach/odf-nano
+14:15	END
 
-12:00	LUNCH Break
+Homework to get the Accreditation: (DO370 incl LAB) 
 
-13:30	ODF Technical - BackUp & DR
+https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
 
-14:30	BREAK
-
-14:45	What´ s Comming - RoadMap
-
-15:15	Intro into LAB / HomeWork
-
-15:30	END
-
-HomeWork to get the Acreditation: https://connect.redhat.com/en/training/course-catalog?m=c&id=44843599
